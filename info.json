@@ -1,0 +1,20 @@
+"bin": {
+    "your-command-here": "./index.js"
+  },
+
+  {
+    "name": "Anthony Monda",
+    "aka": "Tones",
+    "website": "https://ajmonda.github.io/",
+    "linkedin": "https://www.linkedin.com/in/anthony-monda/",
+    "github": "ajmonda",
+    "email": "ajmonda@gmail.com",
+    "proficientTechnologies": [
+        "Javascript",
+        "Node",
+    ],
+    "otherSkills": [
+        "Technical writing",
+        "Sushi-rolling",
+    ]
+}
